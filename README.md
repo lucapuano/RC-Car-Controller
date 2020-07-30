@@ -10,3 +10,5 @@ Current version: V2
 ![lol](https://github.com/lucapuano/RC-Car-Controller/blob/master/Pictures/RC%20Car%20Controller%203D%20Without.png)
 ![lol2](https://github.com/lucapuano/RC-Car-Controller/blob/master/Pictures/RC%20Car%20Controller%203D.png)
 ## UPDATES
+- Improved the design and traces
+- Solved some issues and error in design
